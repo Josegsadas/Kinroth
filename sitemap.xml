@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kinroth.com/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kinroth.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kinroth.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://kinroth.com/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kinroth.com/?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kinroth.com/"/>
+  </url>
+  <url>
+    <loc>https://kinroth.com/privacidad.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
